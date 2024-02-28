@@ -1,2 +1,0 @@
-# .github
-Spring Study README
