@@ -1,12 +1,20 @@
-## Spring Study
+# 🌱 스프링 스터디
 
-<!--
+스프링 스터디를 위한 공간입니다.  
+인프런 강의를 중심으로 공부하며, 다음 로드맵의 순서에 따라 진행합니다.  
 
-**Here are some ideas to get you started:**
+[![김영한의 스프링 완전 정복 로드맵](https://ifh.cc/g/W2MDov.jpg)](https://www.inflearn.com/roadmaps/373)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 강의 목차
+| 강의명 | 시작 날짜 | 목표 날짜 | 강의 시간 |
+| ---- | ---- | ---- | --- |
+| 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근기술 | 2월 27일 | 3월 4일 | 총 28개 수업 (5시간 21분) |
+| 스프링 핵심 원리 - 기본편 | 3월 5일 | | 	총 65개 수업 (12시간 5분) |
+| 모든 개발자를 위한 HTTP 웹 기본 지식 | | | 총 41개 수업 (5시간 40분) |
+| 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 | | | 총 72개 수업 (15시간 22분) |
+| 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 | | | 총 129개 수업 (21시간 5분) |
+| 스프링 DB 1편 - 데이터 접근 핵심 원리 | | | 총 57개 수업 (10시간 4분) |
+| 스프링 DB 2편 - 데이터 접근 활용 기술 | | | 총 88개 수업 (13시간 59분) |
+| 스프링 핵심 원리 - 고급편 | | | 총 125개 수업 (16시간 44분) |
+| 스프링 부트 - 핵심 원리와 활용 | | | 총 107개 수업 (15시간 45분) |
