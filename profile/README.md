@@ -19,3 +19,16 @@
 | 스프링 DB 2편 - 데이터 접근 활용 기술 | | | 총 88개 수업 (13시간 59분) |
 | 스프링 핵심 원리 - 고급편 | | | 총 125개 수업 (16시간 44분) |
 | 스프링 부트 - 핵심 원리와 활용 | | | 총 107개 수업 (15시간 45분) |
+
+
+
+## 구성원
+### 👩‍👩‍👧‍👦인원 : 6
+| 이름 | username |
+| --- | --- |
+| 보민 | [6om1n](https://github.com/6om1n) |
+| 세연 | [seyxxn](https://github.com/seyxxn) |
+| 지은 | [Pracrobo](https://github.com/Pracrobo) |
+| 익현 | []() |
+| 지인 | []() |
+| 덕린 | [Dante](https://github.com/YuDeokRin) |
