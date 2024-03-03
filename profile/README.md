@@ -29,6 +29,6 @@
 | 보민 | [6om1n](https://github.com/6om1n) |
 | 세연 | [seyxxn](https://github.com/seyxxn) |
 | 지은 | [Pracrobo](https://github.com/Pracrobo) |
-| 익현 | []() |
+| 익현 | [jih3508](https://github.com/jih3508) |
 | 지인 | []() |
 | 덕린 | [Dante](https://github.com/YuDeokRin) |
