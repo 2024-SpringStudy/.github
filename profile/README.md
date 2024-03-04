@@ -31,3 +31,5 @@
 | 지은 | [Pracrobo](https://github.com/Pracrobo) |
 | 익현 | [jih3508](https://github.com/jih3508) |
 | 덕린 | [Dante](https://github.com/YuDeokRin) |
+| 채린 | [chaelink](https://github.com/chaelink)|
+| 혜정 |  |
