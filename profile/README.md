@@ -81,12 +81,12 @@
 
 ## 구성원
 ### 👩‍👩‍👧‍👦인원 : 7
-| 이름 | username |
-| --- | --- |
-| 보민 | [6om1n](https://github.com/6om1n) |
-| 세연 | [seyxxn](https://github.com/seyxxn) |
-| 지은 | [Pracrobo](https://github.com/Pracrobo) |
-| 익현 | [jih3508](https://github.com/jih3508) |
-| 덕린 | [Dante](https://github.com/YuDeokRin) |
-| 채린 | [chaelink](https://github.com/chaelink)|
-| 혜정 | [cyzlcyzl](https://github.com/cyzlcyzl)|
+| 이름 | username | state |
+| --- | --- | --- |
+| 보민 | [6om1n](https://github.com/6om1n) |  👩‍💻👑  |
+| 세연 | [seyxxn](https://github.com/seyxxn) |  👩‍💻💸  |
+| 지은 | [Pracrobo](https://github.com/Pracrobo) |  👩‍💻  |
+| 익현 | [jih3508](https://github.com/jih3508) |  🎓 |
+| 덕린 | [Dante](https://github.com/YuDeokRin) |   👨‍💻  |
+| 채린 | [chaelink](https://github.com/chaelink)|   👩‍💻  |
+| 혜정 | [cyzlcyzl](https://github.com/cyzlcyzl)|  🎓  |
