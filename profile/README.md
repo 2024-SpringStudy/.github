@@ -106,6 +106,6 @@
 | 덕린 | [Dante](https://github.com/YuDeokRin) |   👨‍💻  |
 | 채린 | [chaelink](https://github.com/chaelink)|  👩‍💻  |
 | 윤혁 | [newh08](https://github.com/newh08)|  👨‍💻  |
-| 민정 | [minjeong0727](https://github.com/minjeong0727) | 👩‍💻 |
+| 민정 | [minjeong](https://github.com/minjeong0727) | 👩‍💻 |
 | 익현 | [jih3508](https://github.com/jih3508) |  🎓 |
 | 혜정 | [cyzlcyzl](https://github.com/cyzlcyzl)|  🎓  |
