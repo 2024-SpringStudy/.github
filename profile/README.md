@@ -131,7 +131,7 @@
 | 세연 | [seyxxn](https://github.com/seyxxn) |  👩‍💻💸  |
 | 지은 | [Pracrobo](https://github.com/Pracrobo) |  👩‍💻  |
 | 덕린 | [Dante](https://github.com/YuDeokRin) |   👨‍💻  |
-| 생연 | []()|  👨‍💻  |
+| 생연 | [kimsaeng](https://github.com/kimsaeng)|  👨‍💻  |
 | 윤혁 | [newh08](https://github.com/newh08)|  👨‍💻  |
 | 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻  |
 | 채린 | [chaelink](https://github.com/chaelink)|  👩‍💻  |
