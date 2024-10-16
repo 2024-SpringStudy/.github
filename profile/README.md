@@ -106,7 +106,7 @@
 | --- | ------- | --- | --- | ---| ---|---- | ----| ---- | ---- |
 | 10월 8일(화)  | 섹션 2 - 데이터베이스 연결 | 🔺 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅|  - |
 | 10월 12일(토)  | 섹션 2 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔺 | ✅ |  - |
-| 10월 15일(화)  | 섹션 3 |  |  | | | | | |  - |
+| 10월 15일(화)  | 섹션 3 |  ✅| ✅ | ✅| ✅| ✅| ✅| - |  - |
 | 10월 19일(토)  | 섹션 3 - 트랜잭션 - DB 예제 4 - 계좌이체 |  |  | | | | | |  - |
 
 <!---
@@ -134,7 +134,7 @@
 | 생연 | [kimsaeng](https://github.com/kimsaeng)|  👨‍💻  |
 | 윤혁 | [newh08](https://github.com/newh08)|  👨‍💻  |
 | 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻  |
-| 현진 | [lovetreeshine](https://github.com/lovetreeshine) | 👨‍💻  |
+| 현진 | [lovetreeshine](https://github.com/lovetreeshine) | 👩‍💻  |
 | 채린 | [chaelink](https://github.com/chaelink)|  👩‍💻  |
 | 익현 | [jih3508](https://github.com/jih3508) |  🎓 |
 | 혜정 | [cyzlcyzl](https://github.com/cyzlcyzl)|  🎓  |
