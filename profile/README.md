@@ -149,7 +149,7 @@
 | 윤혁 | [newh08](https://github.com/newh08)|  👨‍💻  |
 | 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻  |
 | 동환 | [Develop-KIM](https://github.com/Develop-KIM) | 👨‍💻  |
-| 용학 | []() | 👨‍💻  |
+| 용학 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
 | 채린 | [chaelink](https://github.com/chaelink)|  🎓  |
 | 익현 | [jih3508](https://github.com/jih3508) |  🎓 |
 | 혜정 | [cyzlcyzl](https://github.com/cyzlcyzl)|  🎓  |
