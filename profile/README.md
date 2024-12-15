@@ -4,7 +4,7 @@
 
 인프런 강의를 중심으로 공부하며, 다음 로드맵의 순서에 따라 진행합니다.  
 
-[![김영한의 스프링 완전 정복 로드맵](https://ifh.cc/g/W2MDov.jpg)](https://www.inflearn.com/roadmaps/373)
+[김영한의 스프링 완전 정복 로드맵](https://www.inflearn.com/roadmaps/373)
 
 
 ## 강의 목차
@@ -200,13 +200,13 @@
 | 이름 | username | state |
 | --- | --- | --- |
 | 보민 | [6om1n](https://github.com/6om1n) |  👩‍💻👑  |
-| 세연 | [seyxxn](https://github.com/seyxxn) |  👩‍💻💸  |
 | 지은 | [Pracrobo](https://github.com/Pracrobo) |  👩‍💻  |
 | 덕린 | [Dante](https://github.com/YuDeokRin) |   👨‍💻  |
 | 윤혁 | [newh08](https://github.com/newh08)|  👨‍💻  |
 | 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻  |
 | 동환 | [Develop-KIM](https://github.com/Develop-KIM) | 👨‍💻  |
 | 용학 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
+| 세연 | [seyxxn](https://github.com/seyxxn) |  🎓  |
 | 채린 | [chaelink](https://github.com/chaelink)|  🎓  |
 | 익현 | [jih3508](https://github.com/jih3508) |  🎓 |
 | 혜정 | [cyzlcyzl](https://github.com/cyzlcyzl)|  🎓  |
