@@ -248,7 +248,6 @@
 | 준우 | [Joonwoo Park](https://github.com/93jpark) | 👨‍💻  |
 | 요한 | [??](https://github.com/) | 👨‍💻  |
 | 세엽 | [seyeop03](https://github.com/seyeop03) | 👨‍💻  |
-
 | 보민 | [6om1n](https://github.com/6om1n) |  🎓  |
 | 세연 | [seyxxn](https://github.com/seyxxn) |  🎓  |
 | 채린 | [chaelink](https://github.com/chaelink)|  🎓  |
