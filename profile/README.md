@@ -244,10 +244,10 @@
 | 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻  |
 | 동환 | [Develop-KIM](https://github.com/Develop-KIM) | 👨‍💻  |
 | 용학 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
-| 원준 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
-| 준우 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
-| 요한 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
-| 세엽 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
+| 원준 | [724thomas](https://github.com/724thomas) | 👨‍💻  |
+| 준우 | [Joonwoo Park](https://github.com/93jpark) | 👨‍💻  |
+| 요한 | [??](https://github.com/) | 👨‍💻  |
+| 세엽 | [seyeop03](https://github.com/seyeop03) | 👨‍💻  |
 
 | 보민 | [6om1n](https://github.com/6om1n) |  🎓  |
 | 세연 | [seyxxn](https://github.com/seyxxn) |  🎓  |
