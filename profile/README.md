@@ -244,6 +244,11 @@
 | 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻  |
 | 동환 | [Develop-KIM](https://github.com/Develop-KIM) | 👨‍💻  |
 | 용학 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
+| 원준 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
+| 준우 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
+| 요한 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
+| 세엽 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
+
 | 보민 | [6om1n](https://github.com/6om1n) |  🎓  |
 | 세연 | [seyxxn](https://github.com/seyxxn) |  🎓  |
 | 채린 | [chaelink](https://github.com/chaelink)|  🎓  |
